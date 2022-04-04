@@ -1,0 +1,20 @@
+table, td {
+  border: 1px solid;
+}
+table {
+  width: ;
+}
+td {
+  text-align: center;
+  height: 20px;
+  width: 250px;
+}
+body{
+	background-color: #eeeeee
+	
+}
+button{
+	background-color: #000000;
+	color: #ffffff;
+	
+}
